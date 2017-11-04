@@ -6,7 +6,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
-    "build": "ng build --base-href /$ROOT/dist/",
+    "build": "ng build --base-href $ROOT/home/benny/workspace/desktop/ab-automat/dist/",
     "electron": "electron .",
     "test": "ng test",
     "lint": "ng lint",
